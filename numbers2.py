@@ -55,40 +55,40 @@ class jisuan(object):
         self.l2 = list(l2)
         self.l3 = list(l3)
 
-def method():
+def methoda():
     l = range(10)
     l2 = range(1, 10)
-    for ss41.n1 in l2:
-        for ss42.n1 in l2:
-            if ss41.n1 + ss42.n1 > 9:
-                for ss41.n2 in l:
-                    for ss41.n3 in l:
-                        for ss41.n4 in l:
-                            for ss42.n2 in l:
-                                for ss42.n3 in l:
-                                    for ss42.n4 in l:
-                                        for ss5.n1 in l2:
-                                            for ss5.n2 in l:
-                                                for ss5.n2 in l:
-                                                    for ss5.n3 in l:
-                                                        for ss5.n4 in l:
-                                                            for ss5.n5 in l:
-                                                                t1 = ss41.n1*1000 + ss41.n2*100 + ss41.n3*10 + ss41.n4
-                                                                t2 = ss42.n1*1000 + ss41.n2*100 + ss41.n3*10 + ss41.n4
-                                                                t3 = ss5.n1*10000 + ss5.n2*0100 + ss5.n3*100 +\
-                                                                     ss5.n4*10+ss5.n5
+    for s41.n1 in l2:
+        for s42.n1 in l2:
+            if s41.n1 + s42.n1 > 9:
+                for s41.n2 in l:
+                    for s41.n3 in l:
+                        for s41.n4 in l:
+                            for s42.n2 in l:
+                                for s42.n3 in l:
+                                    for s42.n4 in l:
+                                        for s5.n1 in l2:
+                                            for s5.n2 in l:
+                                                for s5.n2 in l:
+                                                    for s5.n3 in l:
+                                                        for s5.n4 in l:
+                                                            for s5.n5 in l:
+                                                                t1 = s41.n1*1000 + s41.n2*100 + s41.n3*10 + s41.n4
+                                                                t2 = s42.n1*1000 + s41.n2*100 + s41.n3*10 + s41.n4
+                                                                t3 = s5.n1*10000 + s5.n2*0100 + s5.n3*100 +\
+                                                                     s5.n4*10+s5.n5
                                                                 if t1 + t2 == t3:
-                                                                    total = set([ss41.n1,ss41.n2,ss41.n3,ss41.n4,\
-                                                                        ss42.n1,ss42.n2,ss42.n3,ss42.n4,\
-                                                                                ss5.n1,ss5.n2,ss5.n3,ss5.n4,ss5.n5])
-                                                                    if len(total) == 8:
+                                                                    total = set([s41.n1,s41.n2,s41.n3,s41.n4,\
+                                                                        s42.n1,s42.n2,s42.n3,s42.n4,\
+                                                                                s5.n1,s5.n2,s5.n3,s5.n4,s5.n5])
+                                                                    if len(total) == zimu:
                                                                         print ("%d,%d,%d" % (t1, t2, t3))
 
 
 if __name__ == '__main__':
 
-    n1 = ss41('send')
-    n2 = ss42('more')
-    n3 = ss5('money')
-    zimu = set([ss41.n1,ss41.n2,ss41.n3,ss41.n4,\ss42.n1,ss42.n2,ss42.n3,ss42.n4,\ss5.n1,ss5.n2,ss5.n3,ss5.n4,ss5.n5])
-    method()
+    s41 = ss41('send')
+    s42 = ss42('more')
+    s5 = ss5('money')
+    zimu = len(set([s41.n1,s41.n2,s41.n3,s41.n4,s42.n1,s42.n2,s42.n3,s42.n4,s5.n1,s5.n2,s5.n3,s5.n4,s5.n5]))
+    methoda()
